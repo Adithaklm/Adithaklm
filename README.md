@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗞𝗡'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡+𝗧𝗚!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗔𝗗𝗜𝗧𝗛+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗔𝗗𝗜𝗧𝗛+𝗧𝗚!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
 <p align="center">
 
 
@@ -6,11 +6,11 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝙼𝙺𝙽 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 
 <p align="left">
-• 𝙰𝚐𝚎 : 18
+• 𝙰𝚐𝚎 : 
 <p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : 𝙺𝚊𝚗𝚗𝚞𝚛
+• 𝙿𝚕𝚊𝚌𝚎 : 
 <p align="left">
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙼𝚊𝚕𝚊𝚢𝚊𝚕𝚊𝚖
 <p align="left">
