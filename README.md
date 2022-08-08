@@ -20,7 +20,7 @@
 
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adithak_99&&show_icons=true&theme=aura" alt="Adithak_99"/></p>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adithaklm&&show_icons=true&theme=aura" alt="Adithak_99"/></p>  
 <p align="center">
 
 Used Languages 
